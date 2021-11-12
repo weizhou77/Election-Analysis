@@ -6,9 +6,9 @@ import csv
 import os
 
 # Add a variable to load a file from a path.
-file_to_load = os.path.join("/Users/weizhou/Desktop/Data Analytic Boot Camp/Module 3 Python/Election-Analysis/Resources", "election_results.csv")
+file_to_load = os.path.join("Resources", "election_results.csv")
 # Add a variable to save the file to a path.
-file_to_save = os.path.join("/Users/weizhou/Desktop/Data Analytic Boot Camp/Module 3 Python/Election-Analysis/analysis", "election_analysis.txt")
+file_to_save = os.path.join("analysis", "election_analysis.txt")
 # Initialize a total vote counter.
 total_votes = 0
 
@@ -114,8 +114,7 @@ with open(file_to_save, "w") as txt_file:
     # 7: Print the county with the largest turnout to the terminal.
     largest_county_summary = (
         f"-----------------------\n"
-        f"Largest County: {largest_county}\n"
-        f"County Voters Turnout: {county_voter_turnout}\n"
+        f"Largest County Turnout: {largest_county}\n"
         f"-----------------------\n")
     print(largest_county_summary)
     # 8: Save the county with the largest turnout to a text file.
