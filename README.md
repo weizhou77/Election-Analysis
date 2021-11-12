@@ -21,15 +21,15 @@ The analysis of the election show that :
 - There were 369,711 votes
 - The Three Counties were Jefferson, Denver and Arapahoe
 - The votes and percentages of votes for each county were:  
-      Jefferson had 10.5% (38,855 votes)
-      Denver had 82.8% (306,055 votes)
-      Arapahoe had 6.7% (24,801 votes)
+      Jefferson had 10.5% (38,855 votes), 
+      Denver had 82.8% (306,055 votes), 
+      Arapahoe had 6.7% (24,801 votes), 
 - Denver had the most votes, it had 306,055 votes which is 82.8 % of votes in this election
 - The three candidates were Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane.
 - The votes for each candidate were:
-      Charles Casper Stockham had 23% (85,213 votes)
-      Diana Degette had 73.8% (272,892 votes)
-      Raymon Anthony Doane had 3.1% (11,606 votes)
+      Charles Casper Stockham had 23% (85,213 votes), 
+      Diana Degette had 73.8% (272,892 votes), 
+      Raymon Anthony Doane had 3.1% (11,606 votes), 
 - The winning candidate for this election is Diana DeGette that she had 73% (272,892 votes)
 
 ## Challenge Overview
