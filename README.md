@@ -35,5 +35,5 @@ The analysis of the election show that :
 ## Challenge Overview
 The purpose for this challenge is to analyze the data and find the statistical information from the dataset.
 
-##Challenfe Summary
+## Challenfe Summary
 This script also works for other type of elections, we just need to make a few modification to the script. For example that a company is electing for a company image representative, they have a few candidates already and decide to let all the employees vote for the winner. In this example, we will need to change the COUNTY to the company's departments and and change the CANDIDATE to the company's image representative candidate. 
